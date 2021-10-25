@@ -1,12 +1,15 @@
 # dot Getting Started Tutorials
 
-## Introduction @unplugged
-Walk-thru setting up dot - https://www.youtube.com/watch?v=1nse-mlKPsA
-Intro video to dot - https://youtu.be/jNrXkMRNLGw
+## Introduction @showdialog
 
 Welcome! We need to move dot from home position to the third LED on first row 
 
-## Step 1 @fullscreen
+### ~
+Walk-thru setting up dot - https://www.youtube.com/watch?v=1nse-mlKPsA
+Intro video to dot - https://youtu.be/jNrXkMRNLGw
+https://youtu.be/jNrXkMRNLGw
+
+## Step 1 @showhint
 
 Drag and place the ``||dot:move forward||`` block in the ``||basic:on start||``.
 
@@ -15,7 +18,7 @@ Drag and place the ``||dot:move forward||`` block in the ``||basic:on start||``.
 dot.moveForward()
 ```
 
-## Step 2 @fullscreen
+## Step 2 @showhint
 
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
 
@@ -24,7 +27,7 @@ Drag and place another ``||dot:move forward||`` block in the ``||basic:on start|
 dot.moveForward()
 ```
 
-## Step 3 @fullscreen
+## Step 3 @showhint
 
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
 
@@ -36,6 +39,12 @@ dot.moveForward()
 ## Step 4
 
 Click ``|Download|`` to transfer your code to your micro:bit!
+
+## ~button /tutorials
+
+NEXT: Next tutorial for dot
+
+## ~
 
 #### Metadata (used for search, rendering)
 
