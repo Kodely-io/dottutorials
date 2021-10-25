@@ -2,33 +2,33 @@
 
 ## Introduction @unplugged
 
-Welcome! We need to move dot from home position to the third LED on first row 
+Welcome! We need to move dot from home position to the third LED on last row 
 
 ## Step 1 @fullscreen
 
-Drag and place the ``||dot:move forward||`` block in the ``||basic:on start||``.
+Drag and place the ``||dot:move backward||`` block in the ``||basic:on start||``.
 
 
 ```blocks
-dot.moveForward()
+dot.moveBackward()
 ```
 
 ## Step 2 @fullscreen
 
-Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
+Drag and place another ``||dot:move backward||`` block in the ``||basic:on start||``.
 
 
 ```blocks
-dot.moveForward()
+dot.moveBackward()
 ```
 
 ## Step 3 @fullscreen
 
-Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
+Drag and place another ``||dot:move backward||`` block in the ``||basic:on start||``.
 
 
 ```blocks
-dot.moveForward()
+dot.moveBackward()
 ```
 
 ## Step 4

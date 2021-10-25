@@ -12,7 +12,9 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "dotstep1.md"
+        "dotstep1.md",
+        "dotstep2.md",
+        "dotstep3.md"
     ],
     "testFiles": [
         "test.ts"
