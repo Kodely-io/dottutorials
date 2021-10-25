@@ -1,15 +1,25 @@
 # dot Getting Started Tutorials
 
+### ~
+Walk-thru setting up dot  
+https://www.youtube.com/watch?v=1nse-mlKPsA
+
+Intro video to dot 
+https://youtu.be/jNrXkMRNLGw
+
+## Setup & Intro Videos @showdialog
+Walk-thru setting up dot  
+https://www.youtube.com/watch?v=1nse-mlKPsA
+
+Intro video to dot 
+https://youtu.be/jNrXkMRNLGw
+
 ## Introduction @showdialog
 
 Welcome! We need to move dot from home position to the third LED on first row 
 
-### ~
-Walk-thru setting up dot - https://www.youtube.com/watch?v=1nse-mlKPsA
-Intro video to dot - https://youtu.be/jNrXkMRNLGw
-https://youtu.be/jNrXkMRNLGw
 
-## Step 1 @showhint
+## Step 1 
 
 Drag and place the ``||dot:move forward||`` block in the ``||basic:on start||``.
 
@@ -18,7 +28,7 @@ Drag and place the ``||dot:move forward||`` block in the ``||basic:on start||``.
 dot.moveForward()
 ```
 
-## Step 2 @showhint
+## Step 2 
 
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
 
@@ -27,7 +37,7 @@ Drag and place another ``||dot:move forward||`` block in the ``||basic:on start|
 dot.moveForward()
 ```
 
-## Step 3 @showhint
+## Step 3 
 
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
 
