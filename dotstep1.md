@@ -1,4 +1,4 @@
-# dot Getting Started Tutorials
+# dot Getting Started - Tutorial 1
 
 ## Setup & Intro Videos @showdialog
 [Walk-thru setting up dot video](https://www.youtube.com/watch?v=1nse-mlKPsA)

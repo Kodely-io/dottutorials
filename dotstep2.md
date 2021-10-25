@@ -1,6 +1,6 @@
-# dot Getting Started Tutorials
+# dot Getting Started - Tutorial 2
 
-## Introduction @unplugged
+## Introduction  @showdialog
 
 Welcome! We need to move dot from home position to the third LED on last row 
 
@@ -25,7 +25,6 @@ dot.moveBackward()
 ## Step 3 @fullscreen
 
 Drag and place another ``||dot:move backward||`` block in the ``||basic:on start||``.
-
 
 ```blocks
 dot.moveBackward()

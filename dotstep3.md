@@ -1,4 +1,4 @@
-# dot Getting Started Tutorials
+# dot Getting Started - Tutorial 3
 
 ## Introduction @unplugged
 
