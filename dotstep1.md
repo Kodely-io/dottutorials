@@ -1,6 +1,8 @@
 # dot Getting Started Tutorials
 
 ## Introduction @unplugged
+Walk-thru setting up dot - https://www.youtube.com/watch?v=1nse-mlKPsA
+Intro video to dot - https://youtu.be/jNrXkMRNLGw
 
 Welcome! We need to move dot from home position to the third LED on first row 
 
