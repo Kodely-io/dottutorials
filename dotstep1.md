@@ -11,7 +11,7 @@ https://youtu.be/jNrXkMRNLGw
 Walk-thru setting up dot  
 https://www.youtube.com/watch?v=1nse-mlKPsA
 
-Intro video to dot 
+dot intro video 
 https://youtu.be/jNrXkMRNLGw
 
 ## Introduction @showdialog
