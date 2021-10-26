@@ -27,6 +27,7 @@ Drag and place another ``||dot:move forward||`` block in the ``||basic:on start|
 
 ```blocks
 dot.moveForward()
+dot.moveForward()
 ```
 
 ## Step 3 
@@ -35,6 +36,8 @@ Drag and place another ``||dot:move forward||`` block in the ``||basic:on start|
 
 
 ```blocks
+dot.moveForward()
+dot.moveForward()
 dot.moveForward()
 ```
 

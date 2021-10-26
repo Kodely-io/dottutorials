@@ -17,6 +17,7 @@ dot.turnLeft()
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.turnLeft()
 dot.moveForward()
 ```
 
@@ -25,6 +26,8 @@ dot.moveForward()
 Drag and place another ``||dot:turn right||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.turnLeft()
+dot.moveForward()
 dot.turnRight()
 ```
 
@@ -33,6 +36,9 @@ dot.turnRight()
 Drag and place another ``||dot:turn right||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.turnLeft()
+dot.moveForward()
+dot.turnRight()
 dot.turnRight()
 ```
 
@@ -41,10 +47,26 @@ dot.turnRight()
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.turnLeft()
+dot.moveForward()
+dot.turnRight()
+dot.turnRight(
+dot.moveForward()
+```
+## Step 6
+
+Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
+
+```blocks
+dot.turnLeft()
+dot.moveForward()
+dot.turnRight()
+dot.turnRight(
+dot.moveForward()
 dot.moveForward()
 ```
 
-## Step 6
+## Step 7
 
 Click ``|Download|`` to transfer your code to your micro:bit!
 

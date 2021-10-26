@@ -20,6 +20,7 @@ Drag and place another ``||dot:move backward||`` block in the ``||basic:on start
 
 ```blocks
 dot.moveBackward()
+dot.moveBackward()
 ```
 
 ## Step 3  
@@ -27,6 +28,8 @@ dot.moveBackward()
 Drag and place another ``||dot:move backward||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.moveBackward()
+dot.moveBackward()
 dot.moveBackward()
 ```
 

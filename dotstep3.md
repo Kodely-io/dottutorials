@@ -17,6 +17,7 @@ dot.moveForward()
 Drag and place another ``||dot:move backward||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.moveForward()
 dot.moveBackward()
 ```
 
@@ -25,6 +26,8 @@ dot.moveBackward()
 Drag and place another ``||dot:move backward||`` block in the ``||basic:on start||``.
 
 ```blocks
+dot.moveForward()
+dot.moveBackward()
 dot.moveBackward()
 ```
 
