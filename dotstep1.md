@@ -1,6 +1,8 @@
 # dot Getting Started - Tutorial 1
 
 ## Setup & Intro Videos @showdialog
+dot introductory videos 
+
 [Walk-thru setting up dot video](https://www.youtube.com/watch?v=1nse-mlKPsA)
 
 [dot intro video](https://youtu.be/jNrXkMRNLGw)
@@ -40,13 +42,11 @@ dot.moveForward()
 
 Click ``|Download|`` to transfer your code to your micro:bit!
 
-## ~button /tutorials
+## ~button /dotstep2
 
 NEXT: Next tutorial for dot
 
 ## ~
 
-#### Metadata (used for search, rendering)
 
-* for PXT/microbit
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
