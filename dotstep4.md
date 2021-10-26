@@ -22,19 +22,20 @@ dot.moveForward()
 
 ## Step 3 
 
-Drag and place another ``||dot:home||`` block in the ``||basic:on start||``.
-
-```blocks
-dot.home()
-```
-
-## Step 4  
-
-Drag and place the ``||dot:turn right ||`` block in the ``||basic:on start||``.
+Drag and place another ``||dot:turn right||`` block in the ``||basic:on start||``.
 
 ```blocks
 dot.turnRight()
 ```
+
+## Step 4
+
+Drag and place another ``||dot:turn right||`` block in the ``||basic:on start||``.
+
+```blocks
+dot.turnRight()
+```
+
 ## Step 5
 
 Drag and place another ``||dot:move forward||`` block in the ``||basic:on start||``.
