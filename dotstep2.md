@@ -1,4 +1,4 @@
-# dot Getting Started - Tutorial 2
+# dot Getting Started - Learning to use ![image](https://user-images.githubusercontent.com/30203079/138968705-5035095b-e661-4d2b-a48d-58b857c8d9a3.png)
 
 ## Introduction  @showdialog
 
