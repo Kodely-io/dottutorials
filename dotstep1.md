@@ -42,7 +42,7 @@ dot.moveForward()
 
 Click ``|Download|`` to transfer your code to your micro:bit!
 
-## ~button /dotstep2
+## ~button /dottest/dotstep2
 
 NEXT: Next tutorial for dot
 
