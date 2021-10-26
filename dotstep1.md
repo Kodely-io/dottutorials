@@ -9,7 +9,10 @@ dot introductory videos
 
 ## Introduction @showdialog
 
-Welcome! We need to move dot from home position to the third LED on first row 
+Welcome! We need to move dot from home position to the third LED on first row. Like the following  
+
+![image](https://user-images.githubusercontent.com/30203079/138969100-58474f95-6f0c-4d93-951e-f3ffb7883458.png)
+
 
 ## Step 1 
 
