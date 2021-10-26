@@ -1,31 +1,18 @@
+## Setup & Intro Videos
 
-> Open this page at [https://nmarati.github.io/dottest/](https://nmarati.github.io/dottest/)
+dot introductory videos 
 
-## Use as Extension
+[Walk-thru setting up dot video](https://www.youtube.com/watch?v=1nse-mlKPsA)  
 
-This repository can be added as an **extension** in MakeCode.
+[dot intro video](https://youtu.be/jNrXkMRNLGw)
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **New Project**
-* click on **Extensions** under the gearwheel menu
-* search for **https://github.com/nmarati/dottest** and import
+## dot Tutorials 
+Tutorials to get you started with dot
 
-## Edit this project ![Build status badge](https://github.com/nmarati/dottest/workflows/MakeCode/badge.svg)
+[dot Tutorial 1](https://makecode.microbit.org/#tutorial:github:nmarati/dottest/dotstep1)  
 
-To edit this repository in MakeCode.
+[dot Tutorial 2](https://makecode.microbit.org/#tutorial:github:nmarati/dottest/dotstep2)  
 
-* open [https://makecode.microbit.org/](https://makecode.microbit.org/)
-* click on **Import** then click on **Import URL**
-* paste **https://github.com/nmarati/dottest** and click import
+[dot Tutorial 3](https://makecode.microbit.org/#tutorial:github:nmarati/dottest/dotstep3)  
 
-## Blocks preview
-
-This image shows the blocks code from the last commit in master.
-This image may take a few minutes to refresh.
-
-![A rendered view of the blocks](https://github.com/nmarati/dottest/raw/master/.github/makecode/blocks.png)
-
-#### Metadata (used for search, rendering)
-
-* for PXT/microbit
-<script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>
+[dot Tutorial 4](https://makecode.microbit.org/#tutorial:github:nmarati/dottest/dotstep4)  
