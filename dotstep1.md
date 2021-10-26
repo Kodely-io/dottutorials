@@ -42,11 +42,6 @@ dot.moveForward()
 
 Click ``|Download|`` to transfer your code to your micro:bit!
 
-## ~button /dottest/dotstep2
-
-NEXT: Next tutorial for dot
-
-## ~
 
 
 <script src="https://makecode.com/gh-pages-embed.js"></script><script>makeCodeRender("{{ site.makecode.home_url }}", "{{ site.github.owner_name }}/{{ site.github.repository_name }}");</script>

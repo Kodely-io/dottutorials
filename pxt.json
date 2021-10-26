@@ -14,7 +14,8 @@
         "README.md",
         "dotstep1.md",
         "dotstep2.md",
-        "dotstep3.md"
+        "dotstep3.md",
+        "dotstep4.md"
     ],
     "testFiles": [
         "test.ts"
