@@ -64,7 +64,7 @@ Drag and place another ``||dot:move forward||`` block in the ``||basic:on start|
 dot.turnLeft()
 dot.moveForward()
 dot.turnRight()
-dot.turnRight(
+dot.turnRight()
 dot.moveForward()
 ```
 ## Step 6
@@ -75,7 +75,7 @@ Drag and place another ``||dot:move forward||`` block in the ``||basic:on start|
 dot.turnLeft()
 dot.moveForward()
 dot.turnRight()
-dot.turnRight(
+dot.turnRight()
 dot.moveForward()
 dot.moveForward()
 ```
