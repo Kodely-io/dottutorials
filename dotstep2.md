@@ -1,8 +1,17 @@
-# dot Getting Started - Learning to use ![image](https://user-images.githubusercontent.com/30203079/138968705-5035095b-e661-4d2b-a48d-58b857c8d9a3.png)
+# dot Getting Started - Learning to use move backward block 
+
+## move backward block @showdialog
+We use move backward block, to move **dot** one step backward 
+
+![image](https://user-images.githubusercontent.com/30203079/138978272-c334af7a-35af-465c-8934-9f76d62cbf74.png)
+
 
 ## Introduction  @showdialog
 
-Welcome! We need to move dot from home position to the third LED on last row 
+Welcome! We need to move dot from home position to the third LED on last row.  Like the following  
+
+![image](https://user-images.githubusercontent.com/30203079/138978075-73a7a418-5185-4012-8085-64b610acbbc0.png)
+
 
 ## Step 1  
 

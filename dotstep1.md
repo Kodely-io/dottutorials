@@ -8,9 +8,9 @@ dot introductory videos
 [dot intro video](https://youtu.be/jNrXkMRNLGw)
 
 ## Move Forward block @showdialog
-![image](https://user-images.githubusercontent.com/30203079/138968443-bd099a03-07e6-4541-9416-836f79523902.png)
+We use move forward block, to move **dot** one step forward in the current direction  
 
-We use move forward block, to move **dot** one step forward in the current direction
+![image](https://user-images.githubusercontent.com/30203079/138968443-bd099a03-07e6-4541-9416-836f79523902.png)
 
 ## Introduction @showdialog
 

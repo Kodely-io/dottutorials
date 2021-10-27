@@ -1,8 +1,10 @@
-# dot Getting Started - Tutorial 3
+# dot Getting Started - Using move forward and move backward blocks
 
 ## Introduction  @showdialog
 
-Welcome! We need to light up LED in front of home position and LED behind the home position.
+Welcome! We need to light up LED in front of home position and LED behind the home position.  Like the following   
+
+![image](https://user-images.githubusercontent.com/30203079/138978506-3fb5cd26-5ceb-443a-ae9d-897087ba8541.png)
 
 ## Step 1  
 
