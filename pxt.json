@@ -6,7 +6,7 @@
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "dot": "github:kodely-io/dot#v1.0.7"
+        "dot": "github:kodely-io/dot#v1.0.8"
     },
     "files": [
         "main.blocks",
